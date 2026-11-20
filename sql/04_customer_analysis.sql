@@ -1,0 +1,1 @@
+-- 04_customer_analysis.sql
